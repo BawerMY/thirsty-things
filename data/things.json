@@ -1,0 +1,9 @@
+[
+  { "name": "Cup of coffee", "liters": 130, "image": "coffee.svg" },
+  { "name": "Apple", "liters": 70, "image": "apple.svg" },
+  { "name": "Slice of bread", "liters": 40, "image": "bread.svg" },
+  { "name": "Bar of chocolate", "liters": 1700, "image": "chocolate.svg" },
+  { "name": "Hamburger", "liters": 2400, "image": "hamburger.svg" },
+  { "name": "Cotton T-shirt", "liters": 2700, "image": "tshirt.svg" },
+  { "name": "Pair of jeans", "liters": 8000, "image": "jeans.svg" }
+]
