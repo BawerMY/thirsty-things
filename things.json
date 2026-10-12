@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "Beef steak",
+    "description": "A 300 g steak needs about 4,600 liters, enough for 60 showers. Most of it goes into the cattle's feed.",
+    "image": "beef-steak.svg",
+    "liters": 4600,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2012), A global assessment of the water footprint of farm animal products, Ecosystems 15:401",
+      "url": "https://doi.org/10.1007/s10021-011-9517-8",
+      "basis": "15,415 L/kg global average x 300 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Beef burger",
+    "description": "One 150 g burger with its bun needs about 2,400 liters, mostly for the cow's years of grain and grass.",
+    "image": "beef-burger.svg",
+    "liters": 2400,
+    "source": {
+      "title": "Water Footprint Network, Product Gallery",
+      "url": "https://www.waterfootprint.org/resources/interactive-tools/product-gallery/",
+      "basis": "150 g beef burger incl. bun"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Sheet of paper",
+    "description": "A single A4 sheet needs 2 to 13 liters, mostly for growing the trees.",
+    "image": "sheet-of-paper.svg",
+    "liters": 10,
+    "source": {
+      "title": "Van Oel & Hoekstra (2012), Towards quantification of the water footprint of paper, Water Resources Management 26:733",
+      "url": "https://doi.org/10.1007/s11269-011-9942-7",
+      "basis": "80 g/m2 A4 sheet; study range 2-13 L"
+    },
+    "category": "Home & energy"
+  },
+  {
+    "name": "Smartphone",
+    "description": "A smartphone needs about 12,760 liters, across mining, manufacturing and assembly.",
+    "image": "smartphone.svg",
+    "liters": 12760,
+    "source": {
+      "title": "Friends of the Earth (2015), Mind Your Step: the land and water footprints of everyday products",
+      "url": "https://www.watercalculator.org/footprint/the-hidden-water-in-everyday-products/",
+      "basis": "value as published"
+    },
+    "category": "Tech & digital"
+  },
+  {
+    "name": "Cup of coffee",
+    "description": "The 7 g of roasted beans in one cup took about 140 liters to grow, over a thousand times the cup itself.",
+    "image": "cup-of-coffee.svg",
+    "liters": 140,
+    "source": {
+      "title": "Chapagain & Hoekstra (2007), The water footprint of coffee and tea consumption in the Netherlands, Ecological Economics 64:109",
+      "url": "https://doi.org/10.1016/j.ecolecon.2007.02.022",
+      "basis": "125 ml cup, 7 g roasted coffee"
+    },
+    "category": "Drinks"
+  },
+  {
+    "name": "Cotton T-shirt",
+    "description": "One 250 g cotton T-shirt needs about 2,700 liters, what one person drinks in nearly four years.",
+    "image": "cotton-t-shirt.svg",
+    "liters": 2720,
+    "source": {
+      "title": "Chapagain et al. (2006), The water footprint of cotton consumption, Ecological Economics 60:186",
+      "url": "https://doi.org/10.1016/j.ecolecon.2005.11.027",
+      "basis": "250 g T-shirt"
+    },
+    "category": "Clothing & textiles"
+  },
+  {
+    "name": "Car",
+    "description": "Building one car takes 52,000 to 83,000 liters, mostly in making its steel, plastics and electronics.",
+    "image": "car.svg",
+    "liters": 67500,
+    "source": {
+      "title": "Berger et al. (2012), Water footprint of European cars, Environmental Science & Technology 46:4091",
+      "url": "https://doi.org/10.1021/es2040043",
+      "basis": "midpoint of 52,000-83,000 L for European cars"
+    },
+    "category": "Cars & fuel"
+  },
+  {
+    "name": "Chicken breast",
+    "description": "Chicken needs less than a third of beef's water per kilo, but a 200 g breast still beats a bathtub.",
+    "image": "chicken-breast.svg",
+    "liters": 865,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2012), A global assessment of the water footprint of farm animal products, Ecosystems 15:401",
+      "url": "https://doi.org/10.1007/s10021-011-9517-8",
+      "basis": "4,325 L/kg global average x 200 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Pork chop",
+    "description": "Pigs eat a lot of grain, so a 200 g chop carries about eight full bathtubs of water.",
+    "image": "pork-chop.svg",
+    "liters": 1200,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2012), A global assessment of the water footprint of farm animal products, Ecosystems 15:401",
+      "url": "https://doi.org/10.1007/s10021-011-9517-8",
+      "basis": "5,988 L/kg global average x 200 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Lamb chop",
+    "description": "Sheep meat is the second thirstiest meat after beef: over 10,000 liters per kilo.",
+    "image": "lamb-chop.svg",
+    "liters": 1050,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2012), A global assessment of the water footprint of farm animal products, Ecosystems 15:401",
+      "url": "https://doi.org/10.1007/s10021-011-9517-8",
+      "basis": "10,412 L/kg global average x 100 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Paperback book",
+    "description": "About 300 g of paper makes a paperback, needing roughly 600 liters of water.",
+    "image": "paperback-book.svg",
+    "liters": 600,
+    "source": {
+      "title": "Van Oel & Hoekstra (2012), Towards quantification of the water footprint of paper, Water Resources Management 26:733",
+      "url": "https://doi.org/10.1007/s11269-011-9942-7",
+      "basis": "derived: ~10 L per 5 g A4 sheet = ~2,000 L/kg x 300 g"
+    },
+    "category": "Home & energy"
+  },
+  {
+    "name": "Egg",
+    "description": "A single 60 g egg needs about 200 liters, almost all of it for growing the hen's feed.",
+    "image": "egg.svg",
+    "liters": 195,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2012), A global assessment of the water footprint of farm animal products, Ecosystems 15:401",
+      "url": "https://doi.org/10.1007/s10021-011-9517-8",
+      "basis": "3,265 L/kg global average x 60 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Microchip",
+    "description": "A tiny 2 g computer chip needs about 32 liters, largely ultra-pure water for washing wafers.",
+    "image": "microchip.svg",
+    "liters": 32,
+    "source": {
+      "title": "Water Footprint Network, Product Gallery",
+      "url": "https://www.waterfootprint.org/resources/interactive-tools/product-gallery/",
+      "basis": "2 g microchip"
+    },
+    "category": "Tech & digital"
+  },
+  {
+    "name": "Bag of coffee beans",
+    "description": "A 250 g bag of roasted coffee carries almost 4,750 liters, enough for 60 showers.",
+    "image": "bag-of-coffee-beans.svg",
+    "liters": 4750,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "18,925 L/kg global average x 250 g; roasted coffee"
+    },
+    "category": "Drinks"
+  },
+  {
+    "name": "Slice of cheese",
+    "description": "It takes about 10 liters of milk to make 1 kg of cheese, so every 20 g slice hides 100 liters.",
+    "image": "slice-of-cheese.svg",
+    "liters": 100,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2012), A global assessment of the water footprint of farm animal products, Ecosystems 15:401",
+      "url": "https://doi.org/10.1007/s10021-011-9517-8",
+      "basis": "5,060 L/kg global average x 20 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Pair of jeans",
+    "description": "A pair of cotton jeans needs about 10,850 liters, mostly for irrigating the cotton.",
+    "image": "pair-of-jeans.svg",
+    "liters": 10850,
+    "source": {
+      "title": "Chapagain et al. (2006), The water footprint of cotton consumption, Ecological Economics 60:186",
+      "url": "https://doi.org/10.1016/j.ecolecon.2005.11.027",
+      "basis": "1 kg of cotton fabric"
+    },
+    "category": "Clothing & textiles"
+  },
+  {
+    "name": "Full electric car charge",
+    "description": "Charging a 60 kWh EV battery uses about 455 liters of water at US power plants.",
+    "image": "full-electric-car-charge.svg",
+    "liters": 455,
+    "source": {
+      "title": "Torcellini, Long & Judkoff (2003), Consumptive Water Use for U.S. Power Production, NREL",
+      "url": "https://allianceforwaterefficiency.org/resource/how-much-water-embedded-energy/",
+      "basis": "derived: 60 kWh x 7.6 L/kWh"
+    },
+    "category": "Cars & fuel"
+  },
+  {
+    "name": "Kilogram of beef",
+    "description": "The headline number of water footprints: one kilo of beef needs about 15,400 liters, enough to fill 100 bathtubs.",
+    "image": "kilogram-of-beef.svg",
+    "liters": 15400,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2012), A global assessment of the water footprint of farm animal products, Ecosystems 15:401",
+      "url": "https://doi.org/10.1007/s10021-011-9517-8",
+      "basis": "15,415 L/kg global average x 1000 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Bottle of water",
+    "description": "A 0.5 L bottle of water takes about 1.5 liters to make, three times what's inside.",
+    "image": "bottle-of-water.svg",
+    "liters": 1.5,
+    "source": {
+      "title": "Pacific Institute (2007), Bottled Water and Energy fact sheet",
+      "url": "https://pacinst.org/wp-content/uploads/2013/02/bottled_water_and_energy.pdf",
+      "basis": "3 L of water per 1 L bottled, incl. the bottle"
+    },
+    "category": "Home & energy"
+  },
+  {
+    "name": "Tablespoon of butter",
+    "description": "Butter is concentrated milk fat: 5,500 liters per kilo, almost 80 liters per spoonful.",
+    "image": "tablespoon-of-butter.svg",
+    "liters": 78,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2012), A global assessment of the water footprint of farm animal products, Ecosystems 15:401",
+      "url": "https://doi.org/10.1007/s10021-011-9517-8",
+      "basis": "5,553 L/kg global average x 14 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Desktop computer",
+    "description": "Making a desktop PC and monitor took about 1,500 liters of water, plus 240 kg of fossil fuels.",
+    "image": "desktop-computer.svg",
+    "liters": 1500,
+    "source": {
+      "title": "Williams & Kuehr, eds. (2004), Computers and the Environment, United Nations University",
+      "url": "https://news.un.org/en/story/2004/03/96452",
+      "basis": "24 kg desktop PC with CRT monitor"
+    },
+    "category": "Tech & digital"
+  },
+  {
+    "name": "Slice of bread",
+    "description": "A 30 g slice of wheat bread needs about 48 liters, so a whole loaf is over 1,200.",
+    "image": "slice-of-bread.svg",
+    "liters": 48,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "1,608 L/kg global average x 30 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Cup of tea",
+    "description": "Tea is five times less thirsty than coffee: about 27 liters for a 250 ml cup.",
+    "image": "cup-of-tea.svg",
+    "liters": 27,
+    "source": {
+      "title": "Chapagain & Hoekstra (2007), The water footprint of coffee and tea consumption in the Netherlands, Ecological Economics 64:109",
+      "url": "https://doi.org/10.1016/j.ecolecon.2007.02.022",
+      "basis": "250 ml cup, 3 g black tea"
+    },
+    "category": "Drinks"
+  },
+  {
+    "name": "Bowl of rice",
+    "description": "A 75 g portion of rice needs about 185 liters. Paddies are among the world's thirstiest fields.",
+    "image": "bowl-of-rice.svg",
+    "liters": 185,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "2,497 L/kg global average x 75 g; milled rice"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Cotton hoodie",
+    "description": "A 600 g cotton hoodie needs about 6,500 liters, more than two T-shirts' worth.",
+    "image": "cotton-hoodie.svg",
+    "liters": 6500,
+    "source": {
+      "title": "Chapagain et al. (2006), The water footprint of cotton consumption, Ecological Economics 60:186",
+      "url": "https://doi.org/10.1016/j.ecolecon.2005.11.027",
+      "basis": "assumes 600 g of cotton fabric at ~10,850 L/kg"
+    },
+    "category": "Clothing & textiles"
+  },
+  {
+    "name": "Plastic shopping bag",
+    "description": "A 5 g plastic bag needs under a liter of water, far less than a cotton tote, though it brings other problems.",
+    "image": "plastic-shopping-bag.svg",
+    "liters": 0.9,
+    "source": {
+      "title": "Water Footprint Calculator (GRACE), The Hidden Water in Everyday Products",
+      "url": "https://www.watercalculator.org/footprint/the-hidden-water-in-everyday-products/",
+      "basis": "22 gal per lb of plastic (~183 L/kg) x 5 g"
+    },
+    "category": "Home & energy"
+  },
+  {
+    "name": "Plate of pasta",
+    "description": "100 g of dry pasta takes about 185 liters, mostly rain falling on wheat fields.",
+    "image": "plate-of-pasta.svg",
+    "liters": 185,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "1,849 L/kg global average x 100 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Liter of gasoline",
+    "description": "Refining 1 liter of gasoline consumes only 1 to 2.5 liters of water, far less than any biofuel.",
+    "image": "liter-of-gasoline.svg",
+    "liters": 1.75,
+    "source": {
+      "title": "Gleick (1994), Water and energy, Annual Review of Energy and the Environment 19:267",
+      "url": "https://doi.org/10.1146/annurev.eg.19.110194.001411",
+      "basis": "midpoint of 1-2.5 L per L refined"
+    },
+    "category": "Cars & fuel"
+  },
+  {
+    "name": "Pizza margherita",
+    "description": "A whole pizza needs about 1,260 liters: wheat, tomatoes and the cows behind the mozzarella.",
+    "image": "pizza-margherita.svg",
+    "liters": 1260,
+    "source": {
+      "title": "Aldaya & Hoekstra (2010), The water needed for Italians to eat pasta and pizza, Agricultural Systems 103:351",
+      "url": "https://doi.org/10.1016/j.agsy.2010.03.004",
+      "basis": "725 g pizza"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "AI chat session",
+    "description": "About 30 medium-length chatbot answers need roughly a 500 ml bottle of water to cool and power the data center.",
+    "image": "ai-chat-session.svg",
+    "liters": 0.5,
+    "source": {
+      "title": "Li, Yang, Islam & Ren (2023), Making AI Less 'Thirsty': Uncovering and Addressing the Secret Water Footprint of AI Models",
+      "url": "https://arxiv.org/abs/2304.03271",
+      "basis": "GPT-3, ~16.9 ml per response (US average, on-site + off-site)"
+    },
+    "category": "Tech & digital"
+  },
+  {
+    "name": "Bag of potato chips",
+    "description": "A 200 g bag of crisps needs about 185 liters, including the oil it is fried in.",
+    "image": "bag-of-potato-chips.svg",
+    "liters": 185,
+    "source": {
+      "title": "Water Footprint Network, Product Gallery",
+      "url": "https://www.waterfootprint.org/resources/interactive-tools/product-gallery/",
+      "basis": "200 g bag"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Glass of beer",
+    "description": "A 250 ml glass of beer needs about 74 liters, mostly for the barley.",
+    "image": "glass-of-beer.svg",
+    "liters": 74,
+    "source": {
+      "title": "Water Footprint Network, Product Gallery",
+      "url": "https://www.waterfootprint.org/resources/interactive-tools/product-gallery/",
+      "basis": "250 ml glass"
+    },
+    "category": "Drinks"
+  },
+  {
+    "name": "Kilogram of plastic",
+    "description": "Making 1 kg of plastic takes about 180 liters of water.",
+    "image": "kilogram-of-plastic.svg",
+    "liters": 183,
+    "source": {
+      "title": "Water Footprint Calculator (GRACE), The Hidden Water in Everyday Products",
+      "url": "https://www.watercalculator.org/footprint/the-hidden-water-in-everyday-products/",
+      "basis": "22 gal per lb"
+    },
+    "category": "Home & energy"
+  },
+  {
+    "name": "Bowl of popcorn",
+    "description": "30 g of popcorn kernels need about 37 liters, one of the cheapest snacks in water terms.",
+    "image": "bowl-of-popcorn.svg",
+    "liters": 37,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "1,222 L/kg global average x 30 g; maize"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Pair of cotton socks",
+    "description": "Even a 50 g pair of cotton socks hides about 540 liters.",
+    "image": "pair-of-cotton-socks.svg",
+    "liters": 540,
+    "source": {
+      "title": "Chapagain et al. (2006), The water footprint of cotton consumption, Ecological Economics 60:186",
+      "url": "https://doi.org/10.1016/j.ecolecon.2005.11.027",
+      "basis": "assumes 50 g of cotton fabric at ~10,850 L/kg"
+    },
+    "category": "Clothing & textiles"
+  },
+  {
+    "name": "Teaspoon of sugar",
+    "description": "Just 4 g of cane sugar hides about 7 liters of water.",
+    "image": "teaspoon-of-sugar.svg",
+    "liters": 7,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "1,782 L/kg global average x 4 g; refined cane sugar"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Bowl of lentil soup",
+    "description": "60 g of dry lentils need about 350 liters. Pulses are thirsty per kilo but rich in protein.",
+    "image": "bowl-of-lentil-soup.svg",
+    "liters": 350,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "5,874 L/kg global average x 60 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "1,000 Gemini prompts",
+    "description": "Google says a median Gemini prompt uses 0.26 ml of water, about five drops, so 1,000 prompts need about a quarter liter.",
+    "image": "1-000-gemini-prompts.svg",
+    "liters": 0.26,
+    "source": {
+      "title": "Google (2025), Measuring the environmental impact of delivering AI at Google scale",
+      "url": "https://thenewstack.io/google-says-the-median-gemini-prompt-uses-5-drops-of-water/",
+      "basis": "0.26 ml per median text prompt x 1,000"
+    },
+    "category": "Tech & digital"
+  },
+  {
+    "name": "Tank of gasoline",
+    "description": "A 50 L tank of gasoline takes roughly 90 liters of water to refine.",
+    "image": "tank-of-gasoline.svg",
+    "liters": 88,
+    "source": {
+      "title": "Gleick (1994), Water and energy, Annual Review of Energy and the Environment 19:267",
+      "url": "https://doi.org/10.1146/annurev.eg.19.110194.001411",
+      "basis": "derived: 50 L x 1.75 L/L"
+    },
+    "category": "Cars & fuel"
+  },
+  {
+    "name": "Cotton tote bag",
+    "description": "A 150 g cotton tote needs about 1,600 liters, so reuse it a lot.",
+    "image": "cotton-tote-bag.svg",
+    "liters": 1630,
+    "source": {
+      "title": "Chapagain et al. (2006), The water footprint of cotton consumption, Ecological Economics 60:186",
+      "url": "https://doi.org/10.1016/j.ecolecon.2005.11.027",
+      "basis": "assumes 150 g of cotton fabric at ~10,850 L/kg"
+    },
+    "category": "Home & energy"
+  },
+  {
+    "name": "Bowl of hummus",
+    "description": "The 60 g of chickpeas in a bowl of hummus needed about 250 liters.",
+    "image": "bowl-of-hummus.svg",
+    "liters": 250,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "4,177 L/kg global average x 60 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Glass of wine",
+    "description": "A 125 ml glass of wine takes about 110 liters of water, mostly in the vineyard.",
+    "image": "glass-of-wine.svg",
+    "liters": 109,
+    "source": {
+      "title": "Water Footprint Network, Product Gallery",
+      "url": "https://www.waterfootprint.org/resources/interactive-tools/product-gallery/",
+      "basis": "125 ml glass, 870 L per liter"
+    },
+    "category": "Drinks"
+  },
+  {
+    "name": "Soy burger",
+    "description": "A 150 g soy burger needs about 160 liters, roughly 15 times less than a beef burger.",
+    "image": "soy-burger.svg",
+    "liters": 158,
+    "source": {
+      "title": "Ercin, Aldaya & Hoekstra (2012), The water footprint of soy milk and soy burger, Ecological Indicators 18:392",
+      "url": "https://doi.org/10.1016/j.ecolind.2011.12.009",
+      "basis": "150 g burger"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Tablespoon of olive oil",
+    "description": "It takes about 5 kg of olives to make a liter of oil, so one spoon hides 200 liters.",
+    "image": "tablespoon-of-olive-oil.svg",
+    "liters": 200,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "14,431 L/kg global average x 14 g; virgin olive oil"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Leather shoes",
+    "description": "A pair of bovine leather shoes carries the water of the cow behind the hide.",
+    "image": "leather-shoes.svg",
+    "liters": 8000,
+    "source": {
+      "title": "Friends of the Earth (2015), Mind Your Step: the land and water footprints of everyday products",
+      "url": "https://www.watercalculator.org/footprint/the-hidden-water-in-everyday-products/",
+      "basis": "pair of bovine leather shoes"
+    },
+    "category": "Clothing & textiles"
+  },
+  {
+    "name": "Training GPT-3",
+    "description": "Training GPT-3 evaporated about 700,000 liters on site and about 5.4 million liters in total, counting the power plants.",
+    "image": "training-gpt-3.svg",
+    "liters": 5400000,
+    "source": {
+      "title": "Li, Yang, Islam & Ren (2023), Making AI Less 'Thirsty': Uncovering and Addressing the Secret Water Footprint of AI Models",
+      "url": "https://arxiv.org/abs/2304.03271",
+      "basis": "total (on-site + off-site) in US Microsoft data centers"
+    },
+    "category": "Tech & digital"
+  },
+  {
+    "name": "Cotton ball",
+    "description": "A single 0.5 g cotton ball needs about 5 liters of water.",
+    "image": "cotton-ball.svg",
+    "liters": 4.6,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "9,113 L/kg global average x 0.5 g; cotton lint"
+    },
+    "category": "Home & energy"
+  },
+  {
+    "name": "Chocolate bar",
+    "description": "A 100 g bar needs about 1,700 liters. Cocoa beans are among the thirstiest crops on earth.",
+    "image": "chocolate-bar.svg",
+    "liters": 1700,
+    "source": {
+      "title": "Water Footprint Network, Product Gallery",
+      "url": "https://www.waterfootprint.org/resources/interactive-tools/product-gallery/",
+      "basis": "100 g bar"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Apple",
+    "description": "A 150 g apple needs about 125 liters, mostly rain on the orchard.",
+    "image": "apple.svg",
+    "liters": 125,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "822 L/kg global average x 150 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Bottle of wine",
+    "description": "A 750 ml bottle of wine carries about 650 liters, or four full bathtubs.",
+    "image": "bottle-of-wine.svg",
+    "liters": 650,
+    "source": {
+      "title": "Water Footprint Network, Product Gallery",
+      "url": "https://www.waterfootprint.org/resources/interactive-tools/product-gallery/",
+      "basis": "870 L per liter x 0.75 L"
+    },
+    "category": "Drinks"
+  },
+  {
+    "name": "Liter of sugar beet ethanol",
+    "description": "Producing 1 liter of bioethanol from sugar beet needs about 1,400 liters of water.",
+    "image": "liter-of-sugar-beet-ethanol.svg",
+    "liters": 1400,
+    "source": {
+      "title": "Gerbens-Leenes, Hoekstra & van der Meer (2009), The water footprint of bioenergy, PNAS 106:10219",
+      "url": "https://doi.org/10.1073/pnas.0812619106",
+      "basis": "value as published"
+    },
+    "category": "Cars & fuel"
+  },
+  {
+    "name": "Banana",
+    "description": "A 200 g banana needs about 160 liters of water.",
+    "image": "banana.svg",
+    "liters": 160,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "790 L/kg global average x 200 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Orange",
+    "description": "A 150 g orange needs about 85 liters, much less than a glass of its juice.",
+    "image": "orange.svg",
+    "liters": 84,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "560 L/kg global average x 150 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Pair of latex gloves",
+    "description": "Natural rubber needs about 13,700 liters per kilo, so a 14 g pair of latex gloves hides almost 200 liters.",
+    "image": "pair-of-latex-gloves.svg",
+    "liters": 190,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "13,748 L/kg global average x 14 g; natural rubber, assumes 14 g pair"
+    },
+    "category": "Home & energy"
+  },
+  {
+    "name": "Hour of video streaming",
+    "description": "One hour of HD streaming needs 2 to 12 liters of water at data centers and power plants.",
+    "image": "hour-of-video-streaming.svg",
+    "liters": 7,
+    "source": {
+      "title": "Obringer et al. (2021), The overlooked environmental footprint of increasing Internet use, Resources, Conservation & Recycling 167:105389",
+      "url": "https://doi.org/10.1016/j.resconrec.2020.105389",
+      "basis": "midpoint of 2-12 L per hour"
+    },
+    "category": "Tech & digital"
+  },
+  {
+    "name": "Leather jacket",
+    "description": "About 1.5 kg of leather turns a jacket into a small swimming pool of water.",
+    "image": "leather-jacket.svg",
+    "liters": 25650,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2012), A global assessment of the water footprint of farm animal products, Ecosystems 15:401",
+      "url": "https://doi.org/10.1007/s10021-011-9517-8",
+      "basis": "17,093 L/kg global average x 1500 g; assumes ~1.5 kg of leather"
+    },
+    "category": "Clothing & textiles"
+  },
+  {
+    "name": "Avocado",
+    "description": "A 200 g avocado needs about 400 liters, more than three times an apple.",
+    "image": "avocado.svg",
+    "liters": 395,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "1,981 L/kg global average x 200 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Mango",
+    "description": "A 300 g mango needs about 540 liters, one of the thirstiest fruits.",
+    "image": "mango.svg",
+    "liters": 540,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "1,800 L/kg global average x 300 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Bottle of soda",
+    "description": "A 0.5 L bottle of cola needs 150 to 300 liters, mostly hidden in its sugar.",
+    "image": "bottle-of-soda.svg",
+    "liters": 175,
+    "source": {
+      "title": "Ercin, Aldaya & Hoekstra (2011), Corporate water footprint accounting: a sugar-containing carbonated beverage, Water Resources Management 25:721",
+      "url": "https://doi.org/10.1007/s11269-010-9723-8",
+      "basis": "0.5 L bottle; study range 169-309 L"
+    },
+    "category": "Drinks"
+  },
+  {
+    "name": "Strawberry",
+    "description": "One 12 g strawberry needs only about 4 liters, one of the thriftiest fruits.",
+    "image": "strawberry.svg",
+    "liters": 4.2,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "347 L/kg global average x 12 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Rose",
+    "description": "A single cut rose from Kenya needs 7 to 13 liters of water.",
+    "image": "rose.svg",
+    "liters": 10,
+    "source": {
+      "title": "Mekonnen, Hoekstra & Becht (2012), Mitigating the water footprint of export cut flowers from the Lake Naivasha Basin, Kenya, Water Resources Management 26:3725",
+      "url": "https://doi.org/10.1007/s11269-012-0099-9",
+      "basis": "study range 7-13 L per stem"
+    },
+    "category": "Home & energy"
+  },
+  {
+    "name": "Liter of soybean biodiesel",
+    "description": "One liter of biodiesel from soybeans needs about 14,000 liters of water.",
+    "image": "liter-of-soybean-biodiesel.svg",
+    "liters": 14000,
+    "source": {
+      "title": "Gerbens-Leenes, Hoekstra & van der Meer (2009), The water footprint of bioenergy, PNAS 106:10219",
+      "url": "https://doi.org/10.1073/pnas.0812619106",
+      "basis": "value as published"
+    },
+    "category": "Cars & fuel"
+  },
+  {
+    "name": "Cherry",
+    "description": "A single 8 g cherry needs about 13 liters, about three times a strawberry.",
+    "image": "cherry.svg",
+    "liters": 13,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "1,604 L/kg global average x 8 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Hour-long video call",
+    "description": "An hour of video calls needs 2 to 12 liters. Turning the camera off cuts that by about 96%.",
+    "image": "hour-long-video-call.svg",
+    "liters": 7,
+    "source": {
+      "title": "Obringer et al. (2021), The overlooked environmental footprint of increasing Internet use, Resources, Conservation & Recycling 167:105389",
+      "url": "https://doi.org/10.1016/j.resconrec.2020.105389",
+      "basis": "midpoint of 2-12 L per hour"
+    },
+    "category": "Tech & digital"
+  },
+  {
+    "name": "Kiwi",
+    "description": "A 75 g kiwi needs about 39 liters of water.",
+    "image": "kiwi.svg",
+    "liters": 39,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "514 L/kg global average x 75 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Leather wallet",
+    "description": "Bovine leather is one of the thirstiest materials: 17,000 liters per kilo of hide.",
+    "image": "leather-wallet.svg",
+    "liters": 1700,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2012), A global assessment of the water footprint of farm animal products, Ecosystems 15:401",
+      "url": "https://doi.org/10.1007/s10021-011-9517-8",
+      "basis": "17,093 L/kg global average x 100 g; assumes ~100 g of leather"
+    },
+    "category": "Clothing & textiles"
+  },
+  {
+    "name": "Pineapple",
+    "description": "A whole 1 kg pineapple needs only about 255 liters, a bargain per bite.",
+    "image": "pineapple.svg",
+    "liters": 255,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "255 L/kg global average x 1000 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Cigarette",
+    "description": "The 0.7 g of tobacco in one cigarette needs about 2 liters of water.",
+    "image": "cigarette.svg",
+    "liters": 2,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "2,925 L/kg global average x 0.7 g; unmanufactured tobacco"
+    },
+    "category": "Home & energy"
+  },
+  {
+    "name": "Glass of orange juice",
+    "description": "Squeezing a 200 ml glass takes several oranges, and about 200 liters of water.",
+    "image": "glass-of-orange-juice.svg",
+    "liters": 200,
+    "source": {
+      "title": "Water Footprint Network, Product Gallery",
+      "url": "https://www.waterfootprint.org/resources/interactive-tools/product-gallery/",
+      "basis": "200 ml glass, 1,018 L per liter"
+    },
+    "category": "Drinks"
+  },
+  {
+    "name": "Watermelon",
+    "description": "A 5 kg watermelon needs about 1,200 liters, but it is over 90% water itself.",
+    "image": "watermelon.svg",
+    "liters": 1200,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "235 L/kg global average x 5000 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Bitcoin transaction",
+    "description": "A single Bitcoin transaction uses about 16,000 liters, enough to fill a backyard pool.",
+    "image": "bitcoin-transaction.svg",
+    "liters": 16000,
+    "source": {
+      "title": "de Vries (2023), Bitcoin's growing water footprint, Cell Reports Sustainability",
+      "url": "https://www.sciencedaily.com/releases/2023/11/231129112406.htm",
+      "basis": "2021 average"
+    },
+    "category": "Tech & digital"
+  },
+  {
+    "name": "Date",
+    "description": "A single 8 g date needs about 18 liters, grown in the desert.",
+    "image": "date.svg",
+    "liters": 18,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "2,277 L/kg global average x 8 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Liter of jatropha biodiesel",
+    "description": "Jatropha biodiesel was sold as a drought-proof fuel, yet each liter needs about 20,000 liters of water.",
+    "image": "liter-of-jatropha-biodiesel.svg",
+    "liters": 20000,
+    "source": {
+      "title": "Gerbens-Leenes, Hoekstra & van der Meer (2009), The water footprint of bioenergy, PNAS 106:10219",
+      "url": "https://doi.org/10.1073/pnas.0812619106",
+      "basis": "value as published"
+    },
+    "category": "Cars & fuel"
+  },
+  {
+    "name": "Coconut",
+    "description": "A coconut (about 700 g of nut) needs nearly 1,900 liters of water.",
+    "image": "coconut.svg",
+    "liters": 1900,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "2,687 L/kg global average x 700 g; assumes ~700 g nut"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Leather belt",
+    "description": "About 150 g of cowhide makes a belt, carrying around 2,550 liters of water.",
+    "image": "leather-belt.svg",
+    "liters": 2550,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2012), A global assessment of the water footprint of farm animal products, Ecosystems 15:401",
+      "url": "https://doi.org/10.1007/s10021-011-9517-8",
+      "basis": "17,093 L/kg global average x 150 g; assumes ~150 g of leather"
+    },
+    "category": "Clothing & textiles"
+  },
+  {
+    "name": "Kilowatt-hour of electricity",
+    "description": "Each kWh of US electricity consumes about 7.6 liters, mostly evaporating from cooling towers and reservoirs.",
+    "image": "kilowatt-hour-of-electricity.svg",
+    "liters": 7.6,
+    "source": {
+      "title": "Torcellini, Long & Judkoff (2003), Consumptive Water Use for U.S. Power Production, NREL",
+      "url": "https://allianceforwaterefficiency.org/resource/how-much-water-embedded-energy/",
+      "basis": "2 gal/kWh US average incl. hydro"
+    },
+    "category": "Home & energy"
+  },
+  {
+    "name": "Potato",
+    "description": "A 150 g potato needs only about 43 liters, one of the most water-efficient foods.",
+    "image": "potato.svg",
+    "liters": 43,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "287 L/kg global average x 150 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Glass of apple juice",
+    "description": "A 200 ml glass of apple juice needs about 230 liters, almost as much as two whole apples.",
+    "image": "glass-of-apple-juice.svg",
+    "liters": 228,
+    "source": {
+      "title": "Water Footprint Network, Product Gallery",
+      "url": "https://www.waterfootprint.org/resources/interactive-tools/product-gallery/",
+      "basis": "200 ml glass, 1,140 L per liter"
+    },
+    "category": "Drinks"
+  },
+  {
+    "name": "Tomato",
+    "description": "A 100 g tomato needs about 21 liters of water.",
+    "image": "tomato.svg",
+    "liters": 21,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "214 L/kg global average x 100 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Google data centers for a year",
+    "description": "Google's data centers consumed 6.1 billion gallons of water in 2023, about 23 billion liters.",
+    "image": "google-data-centers-for-a-year.svg",
+    "liters": 23090000000,
+    "source": {
+      "title": "Google (2024), Environmental Report (data center water consumption in 2023)",
+      "url": "https://qz.com/google-data-center-consume-water-energy-climate-change-1851760734",
+      "basis": "6.1 billion US gallons in 2023"
+    },
+    "category": "Tech & digital"
+  },
+  {
+    "name": "Head of lettuce",
+    "description": "A 300 g lettuce needs about 70 liters, and it is 95% water itself.",
+    "image": "head-of-lettuce.svg",
+    "liters": 71,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "237 L/kg global average x 300 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Kilowatt-hour of hydropower",
+    "description": "Hydropower looks clean, but reservoirs evaporate about 68 liters per kWh.",
+    "image": "kilowatt-hour-of-hydropower.svg",
+    "liters": 68,
+    "source": {
+      "title": "Torcellini, Long & Judkoff (2003), Consumptive Water Use for U.S. Power Production, NREL",
+      "url": "https://allianceforwaterefficiency.org/resource/how-much-water-embedded-energy/",
+      "basis": "18 gal/kWh reservoir evaporation"
+    },
+    "category": "Home & energy"
+  },
+  {
+    "name": "Carrot",
+    "description": "A 60 g carrot needs only about 12 liters of water.",
+    "image": "carrot.svg",
+    "liters": 12,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "195 L/kg global average x 60 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Tank of bioethanol",
+    "description": "A 50 L tank of sugar beet ethanol needs about 70,000 liters of water, 800 times more than gasoline.",
+    "image": "tank-of-bioethanol.svg",
+    "liters": 70000,
+    "source": {
+      "title": "Gerbens-Leenes, Hoekstra & van der Meer (2009), The water footprint of bioenergy, PNAS 106:10219",
+      "url": "https://doi.org/10.1073/pnas.0812619106",
+      "basis": "derived: 50 L x ~1,400 L/L"
+    },
+    "category": "Cars & fuel"
+  },
+  {
+    "name": "Cotton bed sheet",
+    "description": "A 900 g cotton bed sheet needs about 9,750 liters of water.",
+    "image": "cotton-bed-sheet.svg",
+    "liters": 9750,
+    "source": {
+      "title": "Chapagain et al. (2006), The water footprint of cotton consumption, Ecological Economics 60:186",
+      "url": "https://doi.org/10.1016/j.ecolecon.2005.11.027",
+      "basis": "900 g sheet"
+    },
+    "category": "Clothing & textiles"
+  },
+  {
+    "name": "Pumpkin",
+    "description": "A 3 kg Halloween pumpkin needs about 1,000 liters of water.",
+    "image": "pumpkin.svg",
+    "liters": 1000,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "336 L/kg global average x 3000 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Glass of milk",
+    "description": "A 250 ml glass of milk carries around a thousand times its own volume in water.",
+    "image": "glass-of-milk.svg",
+    "liters": 255,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2012), A global assessment of the water footprint of farm animal products, Ecosystems 15:401",
+      "url": "https://doi.org/10.1007/s10021-011-9517-8",
+      "basis": "1,020 L/kg global average x 250 g"
+    },
+    "category": "Drinks"
+  },
+  {
+    "name": "Broccoli",
+    "description": "A 300 g head of broccoli needs about 85 liters of water.",
+    "image": "broccoli.svg",
+    "liters": 86,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "285 L/kg global average x 300 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Charging a phone for a year",
+    "description": "One full charge a day (about 15 Wh) adds up to around 40 liters of power-plant water a year.",
+    "image": "charging-a-phone-for-a-year.svg",
+    "liters": 42,
+    "source": {
+      "title": "Torcellini, Long & Judkoff (2003), Consumptive Water Use for U.S. Power Production, NREL",
+      "url": "https://allianceforwaterefficiency.org/resource/how-much-water-embedded-energy/",
+      "basis": "derived: 15 Wh x 365 = 5.5 kWh x 7.6 L/kWh"
+    },
+    "category": "Tech & digital"
+  },
+  {
+    "name": "Boiling a kettle",
+    "description": "Boiling a kettle uses about 0.1 kWh, so the power plant consumes almost a liter of water for it.",
+    "image": "boiling-a-kettle.svg",
+    "liters": 0.8,
+    "source": {
+      "title": "Torcellini, Long & Judkoff (2003), Consumptive Water Use for U.S. Power Production, NREL",
+      "url": "https://allianceforwaterefficiency.org/resource/how-much-water-embedded-energy/",
+      "basis": "derived: 0.1 kWh x 7.6 L/kWh"
+    },
+    "category": "Home & energy"
+  },
+  {
+    "name": "Almond",
+    "description": "One shelled almond (1.2 g) needs about 19 liters. Almonds are among the thirstiest nuts.",
+    "image": "almond.svg",
+    "liters": 19,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "16,095 L/kg global average x 1.2 g; shelled"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Handful of almonds",
+    "description": "A 28 g handful of almonds needs about 450 liters, nearly three bathtubs.",
+    "image": "handful-of-almonds.svg",
+    "liters": 450,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "16,095 L/kg global average x 28 g; shelled"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Cashew",
+    "description": "A single 1.5 g cashew needs about 21 liters of water.",
+    "image": "cashew.svg",
+    "liters": 21,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "14,218 L/kg global average x 1.5 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Tank of jatropha biodiesel",
+    "description": "Filling a 50 L tank with jatropha biodiesel would take about a million liters of water.",
+    "image": "tank-of-jatropha-biodiesel.svg",
+    "liters": 1000000,
+    "source": {
+      "title": "Gerbens-Leenes, Hoekstra & van der Meer (2009), The water footprint of bioenergy, PNAS 106:10219",
+      "url": "https://doi.org/10.1073/pnas.0812619106",
+      "basis": "derived: 50 L x ~20,000 L/L"
+    },
+    "category": "Cars & fuel"
+  },
+  {
+    "name": "Bath towel",
+    "description": "A 500 g cotton bath towel needs about 5,400 liters, one of the thirstiest things in your bathroom.",
+    "image": "bath-towel.svg",
+    "liters": 5400,
+    "source": {
+      "title": "Chapagain et al. (2006), The water footprint of cotton consumption, Ecological Economics 60:186",
+      "url": "https://doi.org/10.1016/j.ecolecon.2005.11.027",
+      "basis": "assumes 500 g of cotton fabric at ~10,850 L/kg"
+    },
+    "category": "Clothing & textiles"
+  },
+  {
+    "name": "Glass of soy milk",
+    "description": "A 250 ml glass of soy milk needs about 74 liters, less than a third of cow's milk.",
+    "image": "glass-of-soy-milk.svg",
+    "liters": 74,
+    "source": {
+      "title": "Ercin, Aldaya & Hoekstra (2012), The water footprint of soy milk and soy burger, Ecological Indicators 18:392",
+      "url": "https://doi.org/10.1016/j.ecolind.2011.12.009",
+      "basis": "250 ml glass, 297 L per liter"
+    },
+    "category": "Drinks"
+  },
+  {
+    "name": "Hour of PC gaming",
+    "description": "A gaming PC drawing 400 W for an hour needs about 3 liters of water at the power plant.",
+    "image": "hour-of-pc-gaming.svg",
+    "liters": 3,
+    "source": {
+      "title": "Torcellini, Long & Judkoff (2003), Consumptive Water Use for U.S. Power Production, NREL",
+      "url": "https://allianceforwaterefficiency.org/resource/how-much-water-embedded-energy/",
+      "basis": "derived: 0.4 kWh x 7.6 L/kWh"
+    },
+    "category": "Tech & digital"
+  },
+  {
+    "name": "Hour of air conditioning",
+    "description": "Running a 1.5 kW air conditioner for an hour needs about 11 liters of power-plant water.",
+    "image": "hour-of-air-conditioning.svg",
+    "liters": 11,
+    "source": {
+      "title": "Torcellini, Long & Judkoff (2003), Consumptive Water Use for U.S. Power Production, NREL",
+      "url": "https://allianceforwaterefficiency.org/resource/how-much-water-embedded-energy/",
+      "basis": "derived: 1.5 kWh x 7.6 L/kWh"
+    },
+    "category": "Home & energy"
+  },
+  {
+    "name": "Pistachio",
+    "description": "One 0.7 g pistachio kernel needs about 8 liters of water.",
+    "image": "pistachio.svg",
+    "liters": 8,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "11,363 L/kg global average x 0.7 g"
+    },
+    "category": "Food"
+  },
+  {
+    "name": "Vanilla pod",
+    "description": "Vanilla is the thirstiest crop in the dataset: 126,000 liters per kilo, about 500 for a single pod.",
+    "image": "vanilla-pod.svg",
+    "liters": 505,
+    "source": {
+      "title": "Mekonnen & Hoekstra (2011), The green, blue and grey water footprint of crops and derived crop products, HESS 15:1577",
+      "url": "https://doi.org/10.5194/hess-15-1577-2011",
+      "basis": "126,505 L/kg global average x 4 g; assumes a 4 g pod"
+    },
+    "category": "Food"
+  }
+]
